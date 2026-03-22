@@ -118,10 +118,3 @@ Created as the CS50 final project.
 ## License
 
 See [LICENSE](LICENSE) file for details.
-
-## Troubleshooting
-
-- **Permission Denied**: GPIO operations require root/sudo privileges
-- **Connection Refused**: Ensure the Flask server is running and accessible on port 80
-- **Sensor Not Reading**: Check GPIO pin connections and sensor wiring
-- **Relay Not Switching**: Verify GPIO output pins are correctly configured and relay module is powered
